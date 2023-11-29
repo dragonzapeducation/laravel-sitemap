@@ -42,7 +42,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Laravelium\\Sitemap\\SitemapServiceProvider"
+                "Dragonzap\\Sitemap\\SitemapServiceProvider"
             ]
         }
     },

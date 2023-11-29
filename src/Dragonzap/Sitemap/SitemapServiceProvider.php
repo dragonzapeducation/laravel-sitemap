@@ -2,6 +2,7 @@
 
 namespace Dragonzap\Sitemap;
 
+
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Contracts\Container\Container;
