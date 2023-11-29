@@ -10,20 +10,26 @@
             "email": "r@alfamatter.com",
             "role": "Developer",
             "homepage": "https://darumen.com"
+        },
+        {
+            "name": "Daniel McCarthy",
+            "email": "daniel@dragonzap.com",
+            "role": "Support",
+            "homepage": "https://dragonzap.com/teacher/daniel-mccarthy"
         }
     ],
     "support": {
-        "issues": "https://github.com/Laravelium/laravel-sitemap/issues",
-        "source": "https://github.com/Laravelium/laravel-sitemap",
-        "wiki": "https://github.com/Laravelium/laravel-sitemap/wiki"
+        "issues": "https://github.com/dragonzapeducation/laravel-sitemap/issues",
+        "source": "hhttps://github.com/dragonzapeducation/laravel-sitemap",
+        "wiki": "https://github.com/dragonzapeducation/laravel-sitemap/wiki"
     },
     "require": {
-        "php": ">=7.3",
-        "illuminate/support": "^8.0",
-        "illuminate/filesystem": "^8.0"
+        "php": ">=8.0",
+        "illuminate/support": "^9.0",
+        "illuminate/filesystem": "^9.0"
     },
     "require-dev": {
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^9.0",
         "phpunit/phpunit": "^9.3",
         "orchestra/testbench-core": "^6.0",
         "php-coveralls/php-coveralls" : "^2.2"
