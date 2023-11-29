@@ -20,7 +20,7 @@
     ],
     "support": {
         "issues": "https://github.com/dragonzapeducation/laravel-sitemap/issues",
-        "source": "hhttps://github.com/dragonzapeducation/laravel-sitemap",
+        "source": "https://github.com/dragonzapeducation/laravel-sitemap",
         "wiki": "https://github.com/dragonzapeducation/laravel-sitemap/wiki"
     },
     "require": {
