@@ -1,7 +1,7 @@
 {
-    "name": "laravelium/sitemap",
-    "description": "Laravelium Sitemap package for Laravel.",
-    "homepage": "https://laravelium.com",
+    "name": "dragonzap/sitemap",
+    "description": "Laravelium Sitemap package for Laravel. Taken over by Dragon Zap",
+    "homepage": "https://dragonzap.com",
     "keywords": ["laravelium", "laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
     "license": "MIT",
     "authors": [
