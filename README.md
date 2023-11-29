@@ -1,7 +1,6 @@
-# **[Laravelium Sitemap](https://laravelium.com) package**
+# **[Dragon Zap Sitemap](https://dragonzap.com) package, taken over from deprecated package **[Laravelium Sitemap](https://laravelium.com) **
 
-[![License](https://poser.pugx.org/laravelium/sitemap/license)](https://packagist.org/packages/laravelium/sitemap) [![PHP tests](https://github.com/Laravelium/laravel-sitemap/workflows/PHP%20tests/badge.svg?branch=master)](https://github.com//Laravelium/laravel-sitemap/actions?query=workflow%3A%22PHP+tests%22) [![Maintainability](https://api.codeclimate.com/v1/badges/c7b8c0079addb1217836/maintainability)](https://codeclimate.com/github/Laravelium/laravel-sitemap/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/c7b8c0079addb1217836/test_coverage)](https://codeclimate.com/github/Laravelium/laravel-sitemap/test_coverage) [![Style Status](https://github.styleci.io/repos/10392044/shield?style=normal&branch=master)](https://github.styleci.io/repos/10392044) [![Latest Stable Version](https://poser.pugx.org/laravelium/sitemap/v/stable)](https://packagist.org/packages/laravelium/sitemap) [![Total Downloads](https://poser.pugx.org/laravelium/sitemap/downloads)](https://packagist.org/packages/laravelium/sitemap)
-
+[![License](https://poser.pugx.org/laravelium/sitemap/license)](https://packagist.org/packages/laravelium/sitemap) [![PHP tests](https://github.com/Laravelium/laravel-sitemap/workflows/PHP%20tests/badge.svg?branch=master)](https://github.com//Laravelium/laravel-sitemap/actions?query=workflow%3A%22PHP+tests%22) [![Maintainability](https://api.codeclimate.com/v1/badges/c7b8c0079addb1217836/maintainability)](https://codeclimate.com/github/Laravelium/laravel-sitemap/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/c7b8c0079addb1217836/test_coverage)](https://codeclimate.com/github/Laravelium/laravel-sitemap/test_coverage) [![Style Status](https://github.styleci.io/repos/10392044/shield?style=normal&branch=master)](https://github.styleci.io/repos/10392044)(https://packagist.org/packages/dragonzap/sitemap)
 *Laravelium Sitemap generator for Laravel.*
 
 ## Notes
@@ -10,13 +9,13 @@
 
 ## Installation
 
-Run the following command and provide the latest stable version (e.g v8.\*) :
+Run the following command and provide the latest stable version:
 
 ```bash
-composer require laravelium/sitemap
+composer require dragonzap/sitemap
 ```
 
-*or add the following to your `composer.json` file :*
+*or for older laravel versions use the original package laravelium and add the following to your `composer.json` file :*
 
 #### For Laravel 8
 ```json
