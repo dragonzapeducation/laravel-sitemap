@@ -82,6 +82,12 @@ composer require dragonzap/sitemap
 
 *Publish needed assets (styles, views, config files) :*
 
+For Dragon Zap package use
+```bash
+php artisan vendor:publish --provider="Dragonzap\Sitemap\SitemapServiceProvider"
+```
+
+For Laravelium package use
 ```bash
 php artisan vendor:publish --provider="Laravelium\Sitemap\SitemapServiceProvider"
 ```
