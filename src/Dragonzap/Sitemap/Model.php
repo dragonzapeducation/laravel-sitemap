@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravelium\Sitemap;
+namespace Dragonzap\Sitemap;
 
 /**
  * Model class for laravel-sitemap package.
